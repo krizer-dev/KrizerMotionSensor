@@ -4,7 +4,7 @@
 ## 사용 제품
 - KZSensor-S1 (모션센서)
 
-제품 관련 데이터 시트 내용은 ***KZSensor-S1_manual.pdf*** 을 참고부탁드립니다.
+제품 관련 데이터 시트 내용은 ***KZSensor-S1_manual_outline.pdf*** 을 참고부탁드립니다.
   
 
 ## 지원 기기
